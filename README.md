@@ -120,25 +120,5 @@ Civil engineering project demonstrations
 
 Construction planning and quality control
 
-📌 Future Improvements
 
-Add feature scaling pipeline
-
-Hyperparameter tuning
-
-Model explainability (SHAP values)
-
-Cloud deployment
-
-If you want, I can also:
-
-Write a perfect README title & badges
-
-Customize this for core metallurgy / civil resume
-
-Add screenshots section
-
-Simplify it for college project submission
-
-Just tell me 👍
 ![image alt](https://github.com/Anish-Das2003/concrete-strength-prediction/blob/ba42181a951e28b43ad358174ea82dd9cd0a0c7f/concrete-strength-prediction.png)
