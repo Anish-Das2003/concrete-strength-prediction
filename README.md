@@ -17,10 +17,6 @@ Optimize mix design
 
 Predict strength before actual casting
 
-📊 Dataset
-
-Source: UCI Machine Learning Repository – Concrete Compressive Strength Dataset
-
 Features:
 
 Cement – Cement content (kg/m³)
@@ -62,7 +58,7 @@ Saving trained model for deployment
 Deployment using Streamlit
 
 🧠 Model Used
-XGBoost / Gradient Boosting Regressor
+XGBoost 
 
 Powerful ensemble learning technique
 
@@ -94,11 +90,7 @@ Streamlit (for deployment)
 
 R² Score
 
-Mean Absolute Error (MAE)
-
 Mean Squared Error (MSE)
-
-Root Mean Squared Error (RMSE)
 
 ✅ Results
 
